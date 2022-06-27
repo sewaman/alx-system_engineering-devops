@@ -1,1 +1,1 @@
-display the content of two files
+display last linesthe content of two files
