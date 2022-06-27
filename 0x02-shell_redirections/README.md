@@ -1,1 +1,1 @@
-delete files with javascript
+count directories and sub directories
