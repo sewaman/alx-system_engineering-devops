@@ -1,1 +1,1 @@
-first lines of a file
+Write a script that displays the third line of the file iacta
