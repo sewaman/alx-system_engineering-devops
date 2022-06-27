@@ -1,1 +1,1 @@
-duplicate a last line
+delete files with javascript
