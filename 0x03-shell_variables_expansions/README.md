@@ -1,1 +1,1 @@
-current linux user
+path is always necessary
