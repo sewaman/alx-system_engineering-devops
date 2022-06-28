@@ -1,1 +1,1 @@
-binary to decimal
+a to z
