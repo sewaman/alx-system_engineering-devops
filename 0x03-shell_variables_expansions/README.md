@@ -1,1 +1,1 @@
-exponent
+binary to decimal
