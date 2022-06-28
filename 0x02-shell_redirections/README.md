@@ -1,1 +1,1 @@
-hiding a word
+letteronly
